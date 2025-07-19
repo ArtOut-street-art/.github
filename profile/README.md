@@ -74,30 +74,29 @@ Street art is **fragile**. It’s painted over, destroyed, or lost in time.
 
 | Layer        | Stack / Tools                        |
 | ------------ | ------------------------------------ |
-| **Frontend** | HTML, TailwindCSS, Preact (planned)  |
-| **Map**      | OpenStreetMap, Leaflet.js            |
+| **Frontend** | React Native                         |
+| **Map**      | Google Maps                          |
 | **Backend**  | Firebase (Firestore, Hosting, Auth)  |
 | **Media**    | Camera capture API, Location API     |
-| **Storage**  | Firestore blob storage + location DB |
+| **Storage**  | Firestore, Static storage            |
 
 ---
 
-## 🧪 Alpha Stage – We Need Volunteers!
+## 🧪 Experienced Volunteers Needed!
 
 Help us build the archive of the world’s outdoor creativity. Looking for:
 
 | Role              | Ideal Background                    | What You’ll Own                             |
 | ----------------- | ----------------------------------- | ------------------------------------------- |
-| **Frontend Dev**  | Tailwind, TypeScript, Map APIs      | Real-time photo tagging, map UX             |
-| **Backend Dev**   | Firebase SDK, Cloud Functions       | Data model, Firestore rules, search logic   |
 | **Mobile Dev**    | React Native or Flutter             | Camera capture flow, geotagging             |
 | **Designer**      | UX/UI, Figma, mobile-first design   | Beautiful, fast, intuitive mobile interface |
+| **SCRUM Masters** | Project Management, SM, BA          | Beautiful, fast, intuitive mobile interface |
 | **Outreach Lead** | Social media, partnerships, Discord | Build the user base, grow the art community |
 | **Content Lead**  | Blogging, copywriting, SEO          | Street art stories, newsletters, guides     |
 
 ---
 
-## 🎓 Learn With ArtOut – Volunteer Learning Program
+## 🎓 Learning Program ($25/week)
 
 | Track         | What You'll Learn                           |
 | ------------- | ------------------------------------------- |
@@ -109,22 +108,21 @@ Help us build the archive of the world’s outdoor creativity. Looking for:
 
 ### Program Snapshot
 
-| Detail        | Description                              |
-| ------------- | ---------------------------------------- |
-| **Duration**  | 8–10 weeks                               |
-| **Time**      | \~8 hrs/week, async + optional meetups   |
-| **Support**   | Discord Q\&A, GitHub code reviews        |
-| **Mentoring** | Learn-by-building with project founders  |
-| **Fee**       | Free (for now) – just bring your passion |
+| Detail          | Description                              |
+| --------------- | ---------------------------------------- |
+| **Duration**    | 8–10 weeks                               |
+| **Time**        | \~8 hrs/week, async + optional meetups   |
+| **Support**     | Discord Q\&A, GitHub code reviews        |
+| **Mentoring**   | Learn-by-building with project founders  |
+| **Fee**         | $25/week                                 |
+| **Certificate** | After 8 weeks                            |
 
 ---
 
 ## 🔗 Stay Connected
 
-🌐 Website: [artout.app](https://artout.app) *(placeholder)*
-💼 LinkedIn: [linkedin.com/company/artoutapp](https://linkedin.com/company/artoutapp) *(coming soon)*
-🗺️ Map Viewer: *coming soon*
-💬 Discord: Invite shared on request
+🌐 Website: [artout.site](https://artout.site) *(placeholder)*
+💼 LinkedIn: [linkedin.com/company/artout-app](linkedin.com/company/artout-app) *(coming soon)*
 
 > Be part of a movement to preserve the **public creativity** of our world before it fades.
 
