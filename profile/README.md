@@ -97,6 +97,16 @@ Help us build the archive of the world’s outdoor creativity. Looking for:
 | **Outreach Lead** | Social media, partnerships, Discord | Build the user base, grow the art community |
 | **Content Lead**  | Blogging, copywriting, SEO          | Street art stories, newsletters, guides     |
 
+### Commitment
+
+| Detail             | Description                              |
+| ------------------ | ---------------------------------------- |
+| **Time**           | 10-12 hrs/week, async + optional meetups |
+| **Daily meetings** | 9:30am AEST (Melbourne), 4/week minimum  |
+| **Collaborate**    | Discord, GitHub code reviews, comments   |
+| **Mentoring**      | Learn-by-building with project founders  |
+| **Certificate**    | After 8 weeks                            |
+
 ---
 
 ## 🎓 Learning Program ($25/week)
@@ -113,7 +123,8 @@ Help us build the archive of the world’s outdoor creativity. Looking for:
 | Detail          | Description                              |
 | --------------- | ---------------------------------------- |
 | **Duration**    | 8–10 weeks                               |
-| **Time**        | \~8 hrs/week, async + optional meetups   |
+| **Time**        | ~10 hrs/week, async + optional meetups   |
+| **Daily meet**  | 9:30am AEST (Melbourne), 3/week minimum  |
 | **Support**     | Discord Q\&A, GitHub code reviews        |
 | **Mentoring**   | Learn-by-building with project founders  |
 | **Fee**         | $25/week                                 |
