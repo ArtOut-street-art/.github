@@ -13,6 +13,7 @@ At **ArtOut**, every user becomes a curator. Snap a photo, and it’s:
 
 * ✅ Geotagged with exact **location** (city, street, country)
 * ✅ Added to the **global street art map**
+* ✅ Categorised and tagged by AI
 * ✅ Preserved in a public **visual archive**
 
 🖼️ **No uploads. No accounts. No friction.** Just capture — and contribute.
@@ -26,6 +27,7 @@ At **ArtOut**, every user becomes a curator. Snap a photo, and it’s:
 * 🌎 **Browse art** by country, city, suburb, or street
 * 🔍 **Discover hidden gems** from alleyways to rooftops
 * 🕰️ **View archived art** that may no longer exist in real life
+* 🧠 **Get AI-tailored feed based on user behavior
 
 ### For Artists & Citizens
 
@@ -79,6 +81,7 @@ Street art is **fragile**. It’s painted over, destroyed, or lost in time.
 | **Backend**  | Firebase (Firestore, Hosting, Auth)  |
 | **Media**    | Camera capture API, Location API     |
 | **Storage**  | Firestore, Static storage            |
+| **AI**       | Gemini, OpenAI APIs                  |
 
 ---
 
