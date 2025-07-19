@@ -92,7 +92,7 @@ Help us build the archive of the world’s outdoor creativity. Looking for:
 | Role              | Ideal Background                    | What You’ll Own                             |
 | ----------------- | ----------------------------------- | ------------------------------------------- |
 | **Mobile Dev**    | React Native or Flutter             | Camera capture flow, geotagging             |
-| **Designer**      | UX/UI, Figma, mobile-first design   | Beautiful, fast, intuitive mobile interface |
+| **UI Designer**   | UX/UI, Figma, mobile-first design   | Beautiful, fast, intuitive mobile interface |
 | **SCRUM Masters** | Project Management, SM, BA          | Beautiful, fast, intuitive mobile interface |
 | **Outreach Lead** | Social media, partnerships, Discord | Build the user base, grow the art community |
 | **Content Lead**  | Blogging, copywriting, SEO          | Street art stories, newsletters, guides     |
@@ -101,13 +101,12 @@ Help us build the archive of the world’s outdoor creativity. Looking for:
 
 ## 🎓 Learning Program ($25/week)
 
-| Track         | What You'll Learn                           |
-| ------------- | ------------------------------------------- |
-| **Frontend**  | Preact/React, Tailwind, map integration     |
-| **Mobile**    | React Native, camera APIs, location tagging |
-| **Firebase**  | Auth, Firestore, cloud hosting              |
-| **Design**    | Responsive layouts, dark/light mode UX      |
-| **Community** | Discord setup, social media automation      |
+| Track            | What You'll Learn                                     |
+| ---------------- | ----------------------------------------------------- |
+| **Mobile Dev**   | React Native, camera APIs, location tagging           |
+| **Product**      | Product Ownership, backlog, Figma, team leadership    |
+| **UI Design**    | Figma, Responsive layouts, screen flows               |
+| **SCRUM Master** | Manage team, operate tickets & deliver features       |
 
 ### Program Snapshot
 
